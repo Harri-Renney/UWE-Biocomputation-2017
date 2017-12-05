@@ -1,0 +1,10 @@
+﻿  main.cpp
+c:\users\harri renney\documents\visual studio 2017\projects\biocomputation fp boundries\biocomputation fp boundries\main.cpp(14): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\harri renney\documents\visual studio 2017\projects\biocomputation fp boundries\biocomputation fp boundries\main.cpp(15): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\harri renney\documents\visual studio 2017\projects\biocomputation fp boundries\biocomputation fp boundries\main.cpp(16): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\harri renney\documents\visual studio 2017\projects\biocomputation fp boundries\biocomputation fp boundries\main.cpp(17): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\harri renney\documents\visual studio 2017\projects\biocomputation fp boundries\biocomputation fp boundries\main.cpp(198): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\harri renney\documents\visual studio 2017\projects\biocomputation fp boundries\biocomputation fp boundries\main.cpp(287): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\harri renney\documents\visual studio 2017\projects\biocomputation fp boundries\biocomputation fp boundries\main.cpp(334): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Biocomputation FP Boundries.vcxproj -> C:\Users\Harri Renney\Documents\Visual Studio 2017\Projects\Biocomputation FP Boundries\Debug\Biocomputation FP Boundries.exe
+  Biocomputation FP Boundries.vcxproj -> C:\Users\Harri Renney\Documents\Visual Studio 2017\Projects\Biocomputation FP Boundries\Debug\Biocomputation FP Boundries.pdb (Partial PDB)

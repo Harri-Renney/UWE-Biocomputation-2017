@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\harri renney\documents\visual studio 2017\projects\biocomputation data mining coursework\biocomputation data mining coursework\main.cpp(18): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\harri renney\documents\visual studio 2017\projects\biocomputation data mining coursework\biocomputation data mining coursework\main.cpp(19): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Biocomputation Data Mining Coursework.vcxproj -> C:\Users\Harri Renney\Documents\Visual Studio 2017\Projects\Biocomputation Data Mining Coursework\Debug\Biocomputation Data Mining Coursework.exe
+  Biocomputation Data Mining Coursework.vcxproj -> C:\Users\Harri Renney\Documents\Visual Studio 2017\Projects\Biocomputation Data Mining Coursework\Debug\Biocomputation Data Mining Coursework.pdb (Partial PDB)

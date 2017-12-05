@@ -1,0 +1,12 @@
+﻿  main.cpp
+c:\computer science\third year\biocomputation\biocomputation data set 3\biocomputation data set 3\main.cpp(20): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\computer science\third year\biocomputation\biocomputation data set 3\biocomputation data set 3\main.cpp(21): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\computer science\third year\biocomputation\biocomputation data set 3\biocomputation data set 3\main.cpp(22): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\computer science\third year\biocomputation\biocomputation data set 3\biocomputation data set 3\main.cpp(205): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\computer science\third year\biocomputation\biocomputation data set 3\biocomputation data set 3\main.cpp(325): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\computer science\third year\biocomputation\biocomputation data set 3\biocomputation data set 3\main.cpp(333): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\computer science\third year\biocomputation\biocomputation data set 3\biocomputation data set 3\main.cpp(334): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\computer science\third year\biocomputation\biocomputation data set 3\biocomputation data set 3\main.cpp(373): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\computer science\third year\biocomputation\biocomputation data set 3\biocomputation data set 3\main.cpp(397): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Biocomputation Data Set 3.vcxproj -> C:\Computer Science\Third year\BioComputation\Biocomputation Data Set 3\x64\Debug\Biocomputation Data Set 3.exe
+  Biocomputation Data Set 3.vcxproj -> C:\Computer Science\Third year\BioComputation\Biocomputation Data Set 3\x64\Debug\Biocomputation Data Set 3.pdb (Partial PDB)

@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\computer science\third year\biocomputation\programs\biocomputation data set 1\biocomputation data set 1\main.cpp(16): warning C4305: 'initializing': truncation from 'double' to 'float'
+  BioComputation Data Set 1.vcxproj -> C:\Computer Science\Third year\BioComputation\Programs\BioComputation Data Set 1\Debug\BioComputation Data Set 1.exe
+  BioComputation Data Set 1.vcxproj -> C:\Computer Science\Third year\BioComputation\Programs\BioComputation Data Set 1\Debug\BioComputation Data Set 1.pdb (Partial PDB)
